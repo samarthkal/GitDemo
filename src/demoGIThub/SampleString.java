@@ -12,6 +12,15 @@ public class SampleString {
 			
 			rev=rev+sp[i];
 		}
+		
+		int ar[]= {3,4,5,6,78,9,};
+		
+		for(int a:ar) {
+			
+			System.out.println(a);
+		}
+		
+		
 	}
 
 }
